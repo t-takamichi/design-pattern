@@ -1,1 +1,7 @@
-# design-pattern
+# デザインパターンの勉強用
+- 書籍：Java言語で学ぶデザインパターン入門 第３番
+- Javaで書かれている物をPythonに置き換えています。
+
+# 参考文献
+- Java言語で学ぶデザインパターン入門第3版
+- https://www.sbcr.jp/product/4815609801/

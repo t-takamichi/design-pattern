@@ -1,6 +1,7 @@
 from iterator.book import Book
 from iterator.bookshelf import BookShelf
-def startMain():
+
+def main():
     bookShelf = BookShelf(4)
     bookShelf.append(Book(name="Aroun d the World in 80 days"))
     bookShelf.append(Book(name="Bible"))
@@ -13,4 +14,4 @@ def startMain():
 
 
 if __name__ == '__main__':
-    startMain()
+    main()
